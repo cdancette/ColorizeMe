@@ -13,3 +13,6 @@ Ce service utilise pour le moment https://wall.deblan.org/, qui affiche un code 
 A terme, des librairies javascript pourront être utilisées pour personnaliser la coloration.
 
 Les extensions curl et DOM sont utilisées pour parser la page.
+
+License
+-------
